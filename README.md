@@ -1,0 +1,2 @@
+# Домашнее задание «Работа с PostgreSQL. Создание БД»
+_SQL-запросы, создающие спроектированную БД в файле [Script-MusicSite.sql](https://github.com/graffsmile/Music_Site/blob/main/Script-MusicSite.sql)_
